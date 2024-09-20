@@ -36,5 +36,5 @@ Adidas for providing the sales data.
 Power BI and Excel community for their valuable tools and resources.
 
 
-![RSA bathu Stores](bathu stores.png)
+![RSA bathu Stores](bathustores.png)
 
