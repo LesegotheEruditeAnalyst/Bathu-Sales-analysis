@@ -34,3 +34,7 @@ Contributing Contributions are welcome! Please fork the repository and submit a 
 ## Acknowledgements
 Adidas for providing the sales data.
 Power BI and Excel community for their valuable tools and resources.
+
+
+![RSA bathu Stores](bathu stores.png)
+
